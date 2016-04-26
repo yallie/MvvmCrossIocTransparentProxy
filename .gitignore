@@ -1,0 +1,6 @@
+/.vs/MvvmCrossIocProxy/v14/*.suo
+/AndroidApp/bin/Debug
+/AndroidApp/obj/Debug
+/WindowsConsoleApp/bin/Debug
+/packages/MvvmCross.Platform.4.1.4
+/WindowsConsoleApp/obj/Debug
